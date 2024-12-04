@@ -170,3 +170,14 @@ footer p {
 	color: white;
 	padding: 1em 0;
 }
+.hover{
+	transition:2s;
+	}
+	
+.hover:hover{
+	width:175px;
+	height:95px;
+	}
+	
+	
+	
