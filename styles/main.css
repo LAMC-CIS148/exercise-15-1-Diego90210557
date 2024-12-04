@@ -172,12 +172,22 @@ footer p {
 }
 .hover{
 	transition:2s;
+	width:75px;
+	height:75px;
 	}
 	
 .hover:hover{
 	width:175px;
 	height:95px;
 	}
+
+.delay{
+	transition-delay:2s;
+	transition-duration:3s
+	}
+.delay{
+	rotate:720deg;
+}
 	
 	
 	
